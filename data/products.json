@@ -1,0 +1,58 @@
+[
+  {
+    "id": "P001",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 2000,
+    "stock": 10
+  },
+  {
+    "id": "P002",
+    "name": "Black Shirt",
+    "category": "Shirts",
+    "price": 2200,
+    "stock": 8
+  },
+  {
+    "id": "P003",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 1800,
+    "stock": 12
+  },
+  {
+    "id": "P004",
+    "name": "Black Pant",
+    "category": "Pants",
+    "price": 2500,
+    "stock": 3
+  },
+  {
+    "id": "P005",
+    "name": "Blue Jeans",
+    "category": "Jeans",
+    "price": 3500,
+    "stock": 6
+  },
+  {
+    "id": "P006",
+    "name": "Kurta",
+    "category": "Traditional",
+    "price": 2800,
+    "stock": 7
+  },
+  {
+    "id": "P007",
+    "name": "Black T-Shirt",
+    "category": "T-Shirts",
+    "price": 1500,
+    "stock": 15
+  },
+  {
+    "id": "P008",
+    "name": "Red T-Shirt",
+    "category": "T-Shirts",
+    "price": 1500,
+    "stock": 9
+  }
+]
